@@ -7,4 +7,6 @@
 
 ## Funcionamiento 
 
-!
+![][def]
+
+[def]: img/Encebollado.jpg
